@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vitinhojogador7
+- 👋 Hi, I’m @vitorgabriel
 - 👀 I’m interested in aprender a programar.
 - 🌱 I’m currently learning aprendendo  programar
 
